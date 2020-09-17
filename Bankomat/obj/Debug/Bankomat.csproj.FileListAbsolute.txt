@@ -1,0 +1,15 @@
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\MainWindow.g.cs
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\App.g.cs
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat_MarkupCompile.cache
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat_MarkupCompile.lref
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\MainWindow.baml
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.g.resources
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.cache
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\Kubson\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
